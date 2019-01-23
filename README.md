@@ -48,12 +48,6 @@ Visit this [website](https://www.google.com/search?newwindow=1&ei=SdjjWu3XKYXSU_
 - Improve performance :zap: .
 
 
-## Contact
-
-Mail: crossoverJie@gmail.com
-
-![](https://ws2.sinaimg.cn/large/006tKfTcly1fsa01u7ro1j30gs0howfq.jpg)
-
 
 ## Distributed lock
 
